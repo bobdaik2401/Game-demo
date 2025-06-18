@@ -1,0 +1,347 @@
+fileFormatVersion: 2
+guid: 3cf501576b45bab4989c990635fe056f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6241129398731199472
+    second: button_dichuyen_0
+  - first:
+      213: 9058319542796165680
+    second: button_dichuyen_1
+  - first:
+      213: 224557052686690359
+    second: button_dichuyen_2
+  - first:
+      213: 8928698322552163509
+    second: button_dichuyen_3
+  - first:
+      213: 8321423910406762849
+    second: button_dichuyen_4
+  - first:
+      213: 5205453475478993089
+    second: button_dichuyen_5
+  - first:
+      213: 3317543993321964305
+    second: button_dichuyen_6
+  - first:
+      213: -191665146082236644
+    second: button_dichuyen_7
+  - first:
+      213: 1234769903629204331
+    second: button_dichuyen_8
+  - first:
+      213: -8856445386335842771
+    second: button_dichuyen_9
+  - first:
+      213: 3991021604163442338
+    second: button_dichuyen_10
+  - first:
+      213: 8090614236136063983
+    second: button_dichuyen_11
+  - first:
+      213: -4373629016767581268
+    second: button_dichuyen_12
+  - first:
+      213: 8170725624581855977
+    second: button_dichuyen_13
+  - first:
+      213: -7669473323474054453
+    second: button_dichuyen_14
+  - first:
+      213: 6175444712850868525
+    second: button_dichuyen_15
+  - first:
+      213: 8546274154782990598
+    second: button_dichuyen_16
+  - first:
+      213: 509939866180342151
+    second: button_dichuyen_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: button_dichuyen_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 127
+        width: 169
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f3de980f12fc9650800000000000000
+      internalID: 6241129398731199472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_dichuyen_2
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 129
+        width: 138
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 738e23d1379cd1300800000000000000
+      internalID: 224557052686690359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_dichuyen_10
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 32
+        width: 171
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a6521fe005f26730800000000000000
+      internalID: 3991021604163442338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_dichuyen_12
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 29
+        width: 173
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca33a3ce49fbd43c0800000000000000
+      internalID: -4373629016767581268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_dichuyen_15
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 89
+        width: 54
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d294a875f3693b550800000000000000
+      internalID: 6175444712850868525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_dichuyen_16
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 89
+        width: 54
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60121fc40177a9670800000000000000
+      internalID: 8546274154782990598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 088d4e447161336468254e681b0b06cd
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      button_dichuyen_0: 6241129398731199472
+      button_dichuyen_1: 9058319542796165680
+      button_dichuyen_10: 3991021604163442338
+      button_dichuyen_11: 8090614236136063983
+      button_dichuyen_12: -4373629016767581268
+      button_dichuyen_13: 8170725624581855977
+      button_dichuyen_14: -7669473323474054453
+      button_dichuyen_15: 6175444712850868525
+      button_dichuyen_16: 8546274154782990598
+      button_dichuyen_17: 509939866180342151
+      button_dichuyen_2: 224557052686690359
+      button_dichuyen_3: 8928698322552163509
+      button_dichuyen_4: 8321423910406762849
+      button_dichuyen_5: 5205453475478993089
+      button_dichuyen_6: 3317543993321964305
+      button_dichuyen_7: -191665146082236644
+      button_dichuyen_8: 1234769903629204331
+      button_dichuyen_9: -8856445386335842771
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
