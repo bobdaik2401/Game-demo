@@ -225,7 +225,7 @@ MonoBehaviour:
   m_MinSize: {x: 100, y: 100}
   m_MaxSize: {x: 8096, y: 16192}
   vertical: 1
-  controlID: 31
+  controlID: 54
   draggingID: 0
 --- !u!114 &10
 MonoBehaviour:
@@ -490,9 +490,9 @@ MonoBehaviour:
     m_TextWithWhitespace: "Inspector\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 1023.3334
-    y: 78.66667
-    width: 255.66669
+    x: 1024.3333
+    y: 24
+    width: 255.66675
     height: 547.3333
   m_SerializedDataModeController:
     m_DataMode: 0
@@ -539,8 +539,8 @@ MonoBehaviour:
     m_TextWithWhitespace: "Project\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 780.6667
-    y: 406
+    x: 1
+    y: 351.33334
     width: 240.66663
     height: 219.99997
   m_SerializedDataModeController:
@@ -582,23 +582,23 @@ MonoBehaviour:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 140.00003}
-    m_SelectedIDs: 3ab80000
-    m_LastClickedID: 47162
-    m_ExpandedIDs: 00000000b8b70000bab70000bcb70000beb70000c0b70000c2b70000c4b70000c6b7000000ca9a3b
+    m_SelectedIDs: 1ab80000
+    m_LastClickedID: 47130
+    m_ExpandedIDs: 0000000098b700009ab700009cb700009eb70000a0b70000a2b70000a4b70000a6b70000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: Resources
-      m_OriginalName: Resources
+      m_Name: 
+      m_OriginalName: 
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 47160
+      m_UserData: 0
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 0
+      m_OriginalEventType: 11
       m_IsRenamingFilename: 1
       m_TrimLeadingAndTrailingWhitespace: 0
       m_ClientGUIView: {fileID: 12}
@@ -613,7 +613,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000b8b70000bab70000bcb70000beb70000c0b70000c2b70000c4b70000c6b70000
+    m_ExpandedIDs: 0000000098b700009ab700009cb700009eb70000a0b70000a2b70000a4b70000a6b70000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -641,7 +641,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c623000078b2000084b70000b6b8000008bf00009eb70000c4b2000040b400007eb9000082b2000056b400004eb400006eb8000066b4000040d60000d0cd000086b2000000000000dcb300002e3201004c320100bcb40000c8b4000066c50000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -693,7 +693,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 354
+    y: 299.33334
     width: 779.6667
     height: 271.99997
   m_SerializedDataModeController:
@@ -1252,7 +1252,7 @@ MonoBehaviour:
   m_Position:
     m_Target: {x: -5.1335936, y: 4.826466, z: -0.061701655}
     speed: 2
-    m_Value: {x: -5.158231, y: 4.6706963, z: -0.05877701}
+    m_Value: {x: -5.1335936, y: 4.826466, z: -0.061701655}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1304,7 +1304,7 @@ MonoBehaviour:
   m_Size:
     m_Target: 6.791701
     speed: 2
-    m_Value: 6.499235
+    m_Value: 6.791701
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -1356,8 +1356,8 @@ MonoBehaviour:
     m_TextWithWhitespace: "Hierarchy\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 780.6667
-    y: 78.66667
+    x: 1
+    y: 24
     width: 240.66663
     height: 301.33334
   m_SerializedDataModeController:
@@ -1374,23 +1374,23 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: e4370100
-      m_LastClickedID: 79844
-      m_ExpandedIDs: 76d8fdff2a4dfeff185ffeff108afeff7aa9feff24affeffb8b2feff68b9feff46bafeffb2d8feff7aecfeffa61bffffa222ffff7ab9ffffdac0ffffdce9ffff0ef5ffffeef5ffffc4f7ffffbafaffff3cbb000094bb0000bcbb000056be000088be000072ca0000d8ca00000acb000060e50000ace50000f0e600004ce70000eeef000084f00000a2f00000b6070100d41001007e110100d0110100fa1d010074280100
+      m_SelectedIDs: 
+      m_LastClickedID: 0
+      m_ExpandedIDs: bafaffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: los
-        m_OriginalName: los
+        m_Name: 
+        m_OriginalName: 
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: 62612
+        m_UserData: 0
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 0
+        m_OriginalEventType: 11
         m_IsRenamingFilename: 0
         m_TrimLeadingAndTrailingWhitespace: 0
         m_ClientGUIView: {fileID: 11}
@@ -1423,7 +1423,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 78.66667
+    y: 24
     width: 779.6667
     height: 249.33334
   m_SerializedDataModeController:
@@ -1453,7 +1453,7 @@ MonoBehaviour:
   m_UseMipMap: 0
   m_SimulatorState:
     controlPanelVisible: 0
-    controlPanelWidth: 0
+    controlPanelWidth: NaN
     controlPanelFoldoutKeys:
     - UnityEditor.DeviceSimulation.ApplicationSettingsPlugin
     controlPanelFoldoutValues: 00

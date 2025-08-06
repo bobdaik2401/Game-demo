@@ -1,19 +1,29 @@
 [Ll]ibrary/
 [Tt]emp/
+[Oo]bj/
 [Bb]uild/
 [Bb]uilds/
 [Ll]ogs/
-[Oo]bj/
 [Mm]emoryCaptures/
 
-.vs/
+# Visual Studio
+.vscode/
 *.csproj
-*.sln
-*.user
 *.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
 
+# OS files
 .DS_Store
 Thumbs.db
 
-*.apk
-*.aab
+# Crash Reports
+sysinfo.txt
